@@ -94,7 +94,7 @@ nav img {
     transition: 1s;
 }
 
-nav i {
+nav .fa-solid {
     display: none;
 }
 
@@ -137,7 +137,7 @@ nav i {
     }
 }
 
-nav i {
+nav .fa-solid {
     display: block;
     color: white;
     margin: 10px;
